@@ -1,0 +1,18 @@
+{
+  "npmScope": "nx-cerializr",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "cerializr-e2e": {
+      "tags": []
+    },
+    "cerializr": {
+      "tags": []
+    }
+  }
+}
